@@ -1,18 +1,3 @@
-﻿/* TODO:
-    - 
-*/
-
-/* For GitHub
-    - Explain Scoring System
-        - Assign point value for each question (default = 1)
-        - RadioQuestion: All or Nothing
-        - MultiSelectQuestion: Partial Credit per correct answer chosen and incorrect answer not chosen
-    - Explain all Settings
-        - Randomize Question Order Setting
-        - Randomize Option Order Setting
-        - Show Feedback after each Question Setting
-*/
-
 namespace Quiz
 {
     class Quiz
